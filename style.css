@@ -15,7 +15,7 @@ body {
 .info{
 	margin-left: 50px;
 	margin-right: 50px;
-	width:900px;
+	width:60%;
 	display: inline-block;
 }
 
@@ -26,9 +26,17 @@ body {
 }
 
 .contact {
-	width:200px;
+	width:30%;
 	margin-right: 50px;
 	display: inline-block;
 	vertical-align: top;
 	float:right;
+}
+
+
+a {
+	color:#0066ff;
+}
+a:hover {
+	color:#336600;
 }
